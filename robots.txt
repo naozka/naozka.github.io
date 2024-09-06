@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://naozka.github.io/NrD/sitemap.NrD.gz
